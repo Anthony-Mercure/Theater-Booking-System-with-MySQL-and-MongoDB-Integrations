@@ -1,0 +1,6 @@
+movie_id,title,genre,duration,director,maturity_rating
+1,The Out-of-Towners,Comedy,01:41:00,Arthur Hiller,PG-13
+2,Close Encounters of the Third Kind,Science-Fiction,02:17:00,Steven Spielberg,PG
+3,Airplane!,Comedy,01:28:00,David Zucker,PG
+4,Somewhere in Time,Fantasy,01:43:00,Jeannot Szwarc,PG
+5,Going in Style,Comedy,01:37:00,Martin Brest,PG

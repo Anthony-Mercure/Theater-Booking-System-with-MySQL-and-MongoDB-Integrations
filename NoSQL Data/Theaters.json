@@ -1,0 +1,22 @@
+[
+ {
+   "theater_id": 1,
+   "name": "Section I",
+   "seating_capacity": 28
+ },
+ {
+   "theater_id": 2,
+   "name": "Section II",
+   "seating_capacity": 64
+ },
+ {
+   "theater_id": 3,
+   "name": "Section III",
+   "seating_capacity": 40
+ },
+ {
+   "theater_id": 4,
+   "name": "Section IV",
+   "seating_capacity": 45
+ }
+]

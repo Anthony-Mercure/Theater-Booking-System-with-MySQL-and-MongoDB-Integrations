@@ -1,0 +1,42 @@
+[
+ {
+   "movie_id": 1,
+   "title": "The Out-of-Towners",
+   "genre": "Comedy",
+   "duration": "01:41",
+   "director": "Arthur Hiller",
+   "maturity_rating": "PG-13"
+ },
+ {
+   "movie_id": 2,
+   "title": "Close Encounters of the Third Kind",
+   "genre": "Science-Fiction",
+   "duration": "02:17",
+   "director": "Steven Spielberg",
+   "maturity_rating": "PG"
+ },
+ {
+   "movie_id": 3,
+   "title": "Airplane!",
+   "genre": "Comedy",
+   "duration": "01:28",
+   "director": "David Zucker",
+   "maturity_rating": "PG"
+ },
+ {
+   "movie_id": 4,
+   "title": "Somewhere in Time",
+   "genre": "Fantasy",
+   "duration": "01:43",
+   "director": "Jeannot Szwarc",
+   "maturity_rating": "PG"
+ },
+ {
+   "movie_id": 5,
+   "title": "Going in Style",
+   "genre": "Comedy",
+   "duration": "01:37",
+   "director": "Martin Brest",
+   "maturity_rating": "PG"
+ }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "showtime_id": 1,
+    "movie_id": 1,
+    "theater_id": 1,
+    "date_time": "2024-05-11 14:00"
+  },
+  {
+    "showtime_id": 2,
+    "movie_id": 2,
+    "theater_id": 2,
+    "date_time": "2024-05-11 14:00"
+  },
+  {
+    "showtime_id": 3,
+    "movie_id": 3,
+    "theater_id": 3,
+    "date_time": "2024-05-11 14:00"
+  },
+  {
+    "showtime_id": 4,
+    "movie_id": 4,
+    "theater_id": 4,
+    "date_time": "2024-05-11 14:00"
+  },
+  {
+    "showtime_id": 5,
+    "movie_id": 5,
+    "theater_id": 1,
+    "date_time": "2024-05-11 16:00"
+  },
+  {
+    "showtime_id": 6,
+    "movie_id": 1,
+    "theater_id": 2,
+    "date_time": "2024-05-11 16:00"
+  },
+  {
+    "showtime_id": 7,
+    "movie_id": 2,
+    "theater_id": 3,
+    "date_time": "2024-05-11 16:00"
+  },
+  {
+    "showtime_id": 8,
+    "movie_id": 3,
+    "theater_id": 4,
+    "date_time": "2024-05-11 16:00"
+  },
+  {
+    "showtime_id": 9,
+    "movie_id": 4,
+    "theater_id": 1,
+    "date_time": "2024-05-11 18:00"
+  },
+  {
+    "showtime_id": 10,
+    "movie_id": 5,
+    "theater_id": 2,
+    "date_time": "2024-05-11 18:00"
+  },
+  {
+    "showtime_id": 11,
+    "movie_id": 1,
+    "theater_id": 3,
+    "date_time": "2024-05-11 18:00"
+  },
+  {
+    "showtime_id": 12,
+    "movie_id": 2,
+    "theater_id": 4,
+    "date_time": "2024-05-11 18:00"
+  },
+  {
+    "showtime_id": 13,
+    "movie_id": 3,
+    "theater_id": 1,
+    "date_time": "2024-05-11 20:00"
+  },
+  {
+    "showtime_id": 14,
+    "movie_id": 4,
+    "theater_id": 2,
+    "date_time": "2024-05-11 20:00"
+  },
+  {
+    "showtime_id": 15,
+    "movie_id": 5,
+    "theater_id": 3,
+    "date_time": "2024-05-11 20:00"
+  },
+  {
+    "showtime_id": 16,
+    "movie_id": 1,
+    "theater_id": 4,
+    "date_time": "2024-05-11 20:00"
+  },
+  {
+    "showtime_id": 17,
+    "movie_id": 2,
+    "theater_id": 1,
+    "date_time": "2024-05-12 14:00"
+  },
+  {
+    "showtime_id": 18,
+    "movie_id": 3,
+    "theater_id": 2,
+    "date_time": "2024-05-12 14:00"
+  },
+  {
+    "showtime_id": 19,
+    "movie_id": 4,
+    "theater_id": 3,
+    "date_time": "2024-05-12 14:00"
+  },
+  {
+    "showtime_id": 20,
+    "movie_id": 5,
+    "theater_id": 4,
+    "date_time": "2024-05-12 14:00"
+  },
+  {
+    "showtime_id": 21,
+    "movie_id": 1,
+    "theater_id": 1,
+    "date_time": "2024-05-12 16:00"
+  },
+  {
+    "showtime_id": 22,
+    "movie_id": 2,
+    "theater_id": 2,
+    "date_time": "2024-05-12 16:00"
+  },
+  {
+    "showtime_id": 23,
+    "movie_id": 3,
+    "theater_id": 3,
+    "date_time": "2024-05-12 16:00"
+  },
+  {
+    "showtime_id": 24,
+    "movie_id": 4,
+    "theater_id": 4,
+    "date_time": "2024-05-12 16:00"
+  },
+  {
+    "showtime_id": 25,
+    "movie_id": 5,
+    "theater_id": 1,
+    "date_time": "2024-05-12 18:00"
+  },
+  {
+    "showtime_id": 26,
+    "movie_id": 1,
+    "theater_id": 2,
+    "date_time": "2024-05-12 18:00"
+  },
+  {
+    "showtime_id": 27,
+    "movie_id": 2,
+    "theater_id": 3,
+    "date_time": "2024-05-12 18:00"
+  },
+  {
+    "showtime_id": 28,
+    "movie_id": 3,
+    "theater_id": 4,
+    "date_time": "2024-05-12 18:00"
+  },
+  {
+    "showtime_id": 29,
+    "movie_id": 4,
+    "theater_id": 1,
+    "date_time": "2024-05-12 20:00"
+  },
+  {
+    "showtime_id": 30,
+    "movie_id": 5,
+    "theater_id": 2,
+    "date_time": "2024-05-12 20:00"
+  },
+  {
+    "showtime_id": 31,
+    "movie_id": 1,
+    "theater_id": 3,
+    "date_time": "2024-05-12 20:00"
+  },
+  {
+    "showtime_id": 32,
+    "movie_id": 2,
+    "theater_id": 4,
+    "date_time": "2024-05-12 20:00"
+  }
+]
