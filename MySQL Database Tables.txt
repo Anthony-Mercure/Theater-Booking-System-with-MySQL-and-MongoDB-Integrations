@@ -1,0 +1,53 @@
+CREATE DATABASE TheaterDB;
+
+USE TheaterDB;
+
+CREATE TABLE Movies (
+    Movie_ID int primary key,
+    Title varchar(255),
+    Genre varchar(255),
+    Duration time,
+    Director varchar(255),
+    Maturity_Rating varchar(255)
+);
+
+CREATE TABLE Theaters (
+    Theater_ID int primary key,
+    Name varchar(255),
+    Location varchar(255),
+    Seating_Capacity int
+);
+
+CREATE TABLE Showtimes (
+    Showtime_ID int primary key,
+    Movie_ID int,
+    Theater_ID int,
+    Date_time datetime,
+    FOREIGN KEY (Movie_ID) REFERENCES Movies(Movie_ID),
+    FOREIGN KEY (Theater_ID) REFERENCES Theaters(Theater_ID)
+);
+
+CREATE TABLE Seats (
+    Seat_ID int primary key,
+    Theater_ID int,
+    Seat_Number varchar(10),
+    Status boolean,
+    FOREIGN KEY (Theater_ID) REFERENCES Theaters(Theater_ID)
+);
+
+CREATE TABLE Bookings (
+    Booking_ID int primary key,
+    Showtime_ID int,
+    Seat_ID int,
+    Booking_Date date,
+    FOREIGN KEY (Showtime_ID) REFERENCES Showtimes(Showtime_ID)
+);
+
+CREATE TABLE Transactions (
+    Transaction_ID int primary key,
+    Booking_ID int,
+    Amount decimal(10, 2),
+    Payment_Method varchar(255),
+    Transaction_Date datetime,
+    FOREIGN KEY (Booking_ID) REFERENCES Bookings(Booking_ID)
+);

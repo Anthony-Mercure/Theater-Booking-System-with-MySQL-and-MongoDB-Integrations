@@ -1,0 +1,50 @@
+Movies Collection:
+{
+    "movie_id": <int>,
+    "title": <string>,
+    "genre": <string>,
+    "duration": <time>,
+    "director": <string>,
+    "maturity_rating": <string>
+}
+
+Theaters Collection:
+{
+    "theater_id": <int>,
+    "name": <string>,
+    "location": <string>,
+    "seating_capacity": <int>
+}
+
+Showtimes Collection:
+{
+    "showtime_id": <int>,
+    "movie_id": <int>,
+    "theater_id": <int>,
+    "date_time": <datetime>
+}
+
+Seats Collection:
+{
+    "seat_id": <int>,
+    "theater_id": <int>,
+    "seat_number": <string>,
+    "status": <boolean>
+}
+
+Bookings Collection:
+{
+    "booking_id": <int>,
+    "showtime_id": <int>,
+    "seat_id": <int>,
+    "booking_date": <date>
+}
+
+Transactions Collection:
+{
+    "transaction_id": <int>,
+    "booking_id": <int>,
+    "amount": <decimal>,
+    "payment_method": <string>,
+    "transaction_date": <datetime>
+}
